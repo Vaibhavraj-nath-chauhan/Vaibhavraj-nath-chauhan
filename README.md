@@ -57,6 +57,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true" />
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhavraj-nath-chauhan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)](https://github.com/anuraghazra/github-readme-stats)
 
