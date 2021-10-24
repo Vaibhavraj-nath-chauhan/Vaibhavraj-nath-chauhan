@@ -1,6 +1,15 @@
 ### Hi there, I'm [Vaibhavraj][website] 👋
 
-[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://viabhavrajnath.tech/)
+[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://viabhavrajnath.tech/)
+
+
+[![codechef](https://img.shields.io/badge/CodeChef-%E2%98%85%E2%98%85-brightgreen)](https://www.codechef.com/users/vrnchauhan/)
+
+
+
+
+
+
 
 ## I'm a Coder, Student and Developer!!
 
