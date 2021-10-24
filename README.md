@@ -37,32 +37,12 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
 
-
-
-
-
-<br />
-<br />
-
-  <summary>:zap: Recent GitHub Activity</summary>
-<br />
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
-
 <br />
 <br />
   <summary>:zap: GitHub Stats</summary>
 <br />
 
 ![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")
-
-<br />
-<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)
 
 
