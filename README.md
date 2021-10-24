@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaibhavraj[website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://viabhavrajnath.tech/)
+[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://viabhavrajnath.tech/)
 
 ## I'm a Coder, Student and Developer!!
 
