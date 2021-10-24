@@ -61,6 +61,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vaibhavraj-nath-chauhan)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: http://viabhavrajnath.tech/
 [course]: http://vsCodeHero.com
 [linkedin]: https://www.linkedin.com/in/vaibhavraj-nath-chauhan/
