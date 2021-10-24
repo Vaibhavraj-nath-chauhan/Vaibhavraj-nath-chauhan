@@ -61,7 +61,8 @@
 
 ![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")
 
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)](https://github.com/anuraghazra/github-readme-stats)
 
 
