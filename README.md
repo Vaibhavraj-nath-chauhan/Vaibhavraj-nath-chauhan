@@ -42,7 +42,7 @@
   <summary>:zap: GitHub Stats</summary>
 <br />
 
-![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")
+![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)
 
 
