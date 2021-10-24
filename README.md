@@ -1,7 +1,7 @@
 ### Hi there, I'm [Vaibhavraj][website] 👋
 
-[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://viabhavrajnath.tech/)
-[![codechef](https://img.shields.io/badge/CodeChef-%E2%98%85%E2%98%85-brightgreen)](https://www.codechef.com/users/vrnchauhan/)
+[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://viabhavrajnath.tech/)<br/>
+[![codechef](https://img.shields.io/badge/CodeChef-%E2%98%85%E2%98%85-brightgreen)](https://www.codechef.com/users/vrnchauhan/)<br/>
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)
 
 ## I'm a Coder, Student and Developer!!
@@ -41,10 +41,8 @@
 
 <br />
 <br />
-  <summary>:zap: GitHub Stats</summary>
-<br />
 
-![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")<br />
+![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")<br /><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan)
 
 
