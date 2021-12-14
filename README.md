@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://viabhavrajnath.tech/)<br/>
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)<br/>
-[![codechef](https://img.shields.io/badge/CodeChef-%E2%98%85%E2%98%85-brightgreen)](https://www.codechef.com/users/vrnchauhan/)
 
 
 ## I'm a Coder, Student and Developer!!
