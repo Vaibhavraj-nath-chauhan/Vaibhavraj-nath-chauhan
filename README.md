@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vaibhavraj][website] 👋
 
-[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://viabhavrajnath.tech/)<br/>
+[![Website](https://img.shields.io/website?label=viabhavrajnath.tech&style=for-the-badge&url=http://viabhavrajnath.tech/)](http://vaibhavrajnath.tech/)<br/>
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)<br/>
 
 
@@ -48,7 +48,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan&layout=compact)
 
 
-[website]: http://viabhavrajnath.tech/
+[website]: http://vaibhavrajnath.tech/
 [course]: http://vsCodeHero.com
 [linkedin]: https://www.linkedin.com/in/vaibhavraj-nath-chauhan/
 [codechef]: https://www.codechef.com/users/vrnchauhan
