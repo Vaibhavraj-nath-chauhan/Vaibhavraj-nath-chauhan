@@ -6,9 +6,9 @@
 
 ## I'm a Coder, Student and Developer!!
 
-- 🌱 I’m currently learning everything
-- ⚡ Fun fact: Octopuses have three hearts.
-- 🥅 2021 Goals: Contribute to git-hub more and more 
+- 🌱 I’m currently learning python
+- ⚡ Alexa is always listening to your conversations.
+- 🥅 2022 Goals: Contribute to git-hub more and more 
 
 
 ### Connect with me:
