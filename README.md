@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=vaibhavrajnath.tech&style=for-the-badge&url=http://vaibhavrajnath.tech/)](http://vaibhavrajnath.tech/)<br/>
 [![hackerrank](https://img.shields.io/badge/HackerRank-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen)](https://www.hackerrank.com/VRN_Chauhan_05/)<br/>
+[![hackerrank](https://img.shields.io/badge/CodeChef-brightgreen)](https://www.codechef.com/users/xzycoader)<br/>
 
 
 ## I'm a Coder, Student and Developer!!
