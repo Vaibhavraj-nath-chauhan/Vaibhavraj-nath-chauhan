@@ -55,7 +55,6 @@
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://github.com/Vaibhavraj-nath-chauhan/Vaibhavraj-nath-chauhan/blob/master/github-user-contribution.svg#gh-light-mode-only" width="100%">
 <img src="https://github.com/Vaibhavraj-nath-chauhan/Vaibhavraj-nath-chauhan/blob/master/github-user-contribution.svg#gh-dark-mode-only" width="100%">
