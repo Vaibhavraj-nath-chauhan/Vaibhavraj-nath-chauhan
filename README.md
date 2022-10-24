@@ -57,8 +57,7 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/0xStryK3R/0xStryK3R/snake-grid-animations/github-snake-grid-animation.svg" width="100%">
-
+<img src="https://github.com/Vaibhavraj-nath-chauhan/Vaibhavraj-nath-chauhan/blob/master/github-user-contribution.svg#gh-dark-mode-only" width="100%"></br>
 
 [website]: http://vaibhavrajnath.tech/
 [course]: http://vsCodeHero.com
