@@ -12,14 +12,14 @@
 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <br />
 
@@ -49,6 +49,15 @@
 
 ![Vaibharvaj's GitHub States](https://github-readme-stats.vercel.app/api?username=Vaibhavraj-nath-chauhan&show_icons=true&hide_border=true")
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavraj-nath-chauhan&layout=compact)
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/0xStryK3R/0xStryK3R/snake-grid-animations/github-snake-grid-animation.svg" width="100%">
 
 
 [website]: http://vaibhavrajnath.tech/
