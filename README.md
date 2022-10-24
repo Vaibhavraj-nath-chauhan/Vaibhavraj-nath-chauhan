@@ -10,6 +10,9 @@
 - ⚡ Alexa is always listening to your conversations.
 - 🥅 2022 Goals: Contribute to git-hub more and more 
 
+## Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ### Connect with me:
 
