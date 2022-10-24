@@ -55,3 +55,5 @@
 [course]: http://vsCodeHero.com
 [linkedin]: https://www.linkedin.com/in/vaibhavraj-nath-chauhan/
 [hackerrank]: https://www.hackerrank.com/VRN_Chauhan_05
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Vaibhavraj-nath-chauhan)
