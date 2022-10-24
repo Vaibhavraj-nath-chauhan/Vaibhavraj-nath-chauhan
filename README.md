@@ -12,16 +12,16 @@
 
 ## Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">][linkedin]&nbsp;&nbsp;
+[<img height="33" src="https://user-images.githubusercontent.com/29790345/184600207-42a1a54e-9faa-40c8-b18e-f8230d0c6d7c.png?raw=true">][website]&nbsp;&nbsp;
+<a href="mailto:vaibhavrajnathchauhan24@gmail.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
 <br />
+
 
 ### Languages and Tools:
 
